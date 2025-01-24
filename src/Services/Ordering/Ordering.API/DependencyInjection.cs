@@ -1,5 +1,4 @@
-﻿using BuildingBlocks.Exceptions.Handler;
-using HealthChecks.UI.Client;
+﻿using HealthChecks.UI.Client;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 
 namespace Ordering.API;
